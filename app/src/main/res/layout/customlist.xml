@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/setfirstname"
+        android:textSize="@dimen/textsize"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:background="@drawable/button"
+        android:padding="8dp"
+        android:layout_alignBaseline="@+id/firstname"
+        android:layout_alignBottom="@+id/firstname"
+        android:layout_alignLeft="@+id/setlastname"
+        android:layout_alignStart="@+id/setlastname" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/setid"
+        android:textSize="@dimen/textsize"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:background="@drawable/button"
+        android:padding="8dp"
+
+        android:layout_above="@+id/firstname"
+        android:layout_alignLeft="@+id/setfirstname"
+        android:layout_alignStart="@+id/setfirstname" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lastname"
+        android:text=" Last name "
+        android:textSize="@dimen/textsize"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:background="@drawable/button"
+        android:padding="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/firstname"
+        android:layout_alignLeft="@+id/iD"
+        android:layout_alignStart="@+id/iD" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/firstname"
+        android:text=" First name "
+        android:textSize="@dimen/textsize"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:background="@drawable/button"
+        android:padding="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/iD"
+        android:layout_alignLeft="@+id/iD"
+        android:layout_alignStart="@+id/iD" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/iD"
+        android:text="  ID  "
+        android:textSize="@dimen/textsize"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:background="@drawable/button"
+        android:padding="8dp"
+        android:layout_marginLeft="48dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="33dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/setlastname"
+        android:textSize="@dimen/textsize"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:background="@drawable/button"
+        android:padding="8dp"
+        android:layout_alignBaseline="@+id/lastname"
+        android:layout_alignBottom="@+id/lastname"
+        android:layout_toRightOf="@+id/firstname"
+        android:layout_toEndOf="@+id/firstname"
+        android:layout_marginLeft="119dp"
+        android:layout_marginStart="119dp" />
+
+
+</RelativeLayout>

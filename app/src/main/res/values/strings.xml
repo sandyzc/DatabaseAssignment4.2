@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatabaseAssignment4</string>
+    <string name="title_activity_list">listActivity</string>
+</resources>

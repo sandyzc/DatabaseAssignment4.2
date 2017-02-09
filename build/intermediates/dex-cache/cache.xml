@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_acd8aeef20432a60fdb40c9193f735e7b429dec5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_5f3ebcd75bed087ab63e14166670a33b9307b4e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_308c8f149b5eccaf7ce41e80f2d6d1cca9740910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3615f84055b13a9d3216f94cb5d2b0cc2bf712d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_817fc78d907b676bfc0b77838d13aa0acc5450b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_9698f1aaa499623f229889a2b13899bb734b3e74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_6833f8206e9c590417e6e1bbcbe28dd6186eb169\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_50a89e537a8b141fd1434cfad0a831dd6083a8d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ba87783acab474c92eaec0928406280c67613e0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0900b511ad4e35b53896d3e571df321b2e6cf488">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b6b74430f4caf7cf6a19e33709bdb5000b4d89ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_d3c165d5068563cb0810b09ebb2aa8d326cbf47f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_1a63765739f014da103064b428314639e5617b68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_cd9f0ed39cb05e968ea3e46b294c47fcf14c014c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_9e20328a07ae682fa4311ed0ffec5efa1af119e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_812d9eaa36037b883aa8614283db46f93057f9f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b832b254a6f9874bbc6c43d83baa96e3087c138">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4c2eb86a0bdef65322ae8e634b371dbd4e307e4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2b4015335954cabfbe0994bb2152f3366990e515\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c69c8ad5693cce38412081945ff66ac11413240c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\manjula\AndroidStudioProjects\DatabaseAssignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_f9f6571cb756c553292c0155e845bf2c7f0095c9\classes.dex" />
+    </item>
+
+</items>
